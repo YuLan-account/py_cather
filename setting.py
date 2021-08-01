@@ -2,5 +2,10 @@
 
 proxy_url = 'http://127.0.0.1:5555/random'
 
-sogou_links_file = '/Users/bytedance/PycharmProjects/pachong/result/sogou_link'
-sogou_page_dir = '/Users/bytedance/PycharmProjects/pachong/result/sogou'
+sogou_links_file = '/Users/bytedance/PycharmProjects/pachong/result/sogou_link21.txt'
+sogou_page_dir = '/Users/bytedance/PycharmProjects/pachong/result/sogou/pages6'
+sogou_cookie = 'ABTEST=0|1627100203|v1; SUID=7E1388774842910A0000000060FB942B; SUID=7E1388771F49910A0000000060FB942B; weixinIndexVisited=1; SUV=00F9E6617788137E60FB942C9C96B467; ppinf=5|1627142393|1628351993|dHJ1c3Q6MToxfGNsaWVudGlkOjQ6MjAxN3x1bmlxbmFtZToxODolRTclQkUlQkQlRTglOTMlOUR8Y3J0OjEwOjE2MjcxNDIzOTN8cmVmbmljazoxODolRTclQkUlQkQlRTglOTMlOUR8dXNlcmlkOjQ0Om85dDJsdUg4c0NjOWVHWnZmeVBaMHRwdmkxT2NAd2VpeGluLnNvaHUuY29tfA; pprdig=QRauHV08EUupRWvyUBIDGH1M0mEEqTt2ZrCUC29C4Wi0D_zhhq5_RBGgxqjKYs5w8NzgR4EVZeeVo68ScDvSU5BaT1CKC7PJXpKS3EPjghTvw2SbZw_PVDWBz8-ohfEgeD2_VSwaua55QSy-yFuJLmdiCq1LXy-XP71gzc4W5Fo; ppinfo=e7428eb679; passport=5|1627142393|1628351993|dHJ1c3Q6MToxfGNsaWVudGlkOjQ6MjAxN3x1bmlxbmFtZToxODolRTclQkUlQkQlRTglOTMlOUR8Y3J0OjEwOjE2MjcxNDIzOTN8cmVmbmljazoxODolRTclQkUlQkQlRTglOTMlOUR8dXNlcmlkOjQ0Om85dDJsdUg4c0NjOWVHWnZmeVBaMHRwdmkxT2NAd2VpeGluLnNvaHUuY29tfA|8bc25f0a78|QRauHV08EUupRWvyUBIDGH1M0mEEqTt2ZrCUC29C4Wi0D_zhhq5_RBGgxqjKYs5w8NzgR4EVZeeVo68ScDvSU5BaT1CKC7PJXpKS3EPjghTvw2SbZw_PVDWBz8-ohfEgeD2_VSwaua55QSy-yFuJLmdiCq1LXy-XP71gzc4W5Fo; sgid=24-53059563-AWD8OPncjs8DsDmrMh4bV4o; JSESSIONID=aaahA2KlVFG_2cimen_Ox; PHPSESSID=kdh4f2gap9shm5vj3g4csnl4n3; IPLOC=CN4400; ld=uyllllllll2PxQ9qlllllp9pOZGllllltpRR1kllllwllllllylll5@@@@@@@@@@; LSTMV=210%2C70; LCLKINT=829; ppmdig=16278330630000002c553c3d6a3443997ce19dfd40727d59; SNUID=28F8EFFF8E8A470FE47C60D88FA73670; seccodeRight=success; successCount=1|Sun, 01 Aug 2021 15:56:11 GMT; refresh=1'
+
+
+baidu_links_file = '/Users/bytedance/PycharmProjects/pachong/result/baidu_link3.txt'
+baidu_page_dir = '/Users/bytedance/PycharmProjects/pachong/result/baidu'
